@@ -1,2 +1,2 @@
 # mgotu_telegram_bot
-Telegram bot to view each group's schedule. Also with access to ChatGPT.
+Телеграм-бот для просмотра расписания каждой группы. Также с доступом к ChatGPT.
